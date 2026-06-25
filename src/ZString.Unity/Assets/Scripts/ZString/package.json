@@ -10,12 +10,5 @@
 	],
 	"license": "MIT",
 	"category": "Scripting",
-	"dependencies": {},
-	"samples": [
-		{
-			"displayName": "Required Managed DLLs",
-			"description": "Import Required Managed DLLs",
-			"path": "Samples~/RequiredManagedDLLs"
-		}
-	]
+	"dependencies": {}
 }
